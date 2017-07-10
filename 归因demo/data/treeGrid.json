@@ -1,0 +1,112 @@
+[{
+  "id":1,
+  "name":"C",
+  "sec_code":"",
+  "selection":"11111",
+  "allocation":"22222",
+  "interaction":"33333",
+  "total":"444444",
+  "children":[{
+    "id":2,
+    "name":"Program Files",
+    "sec_code":"120 MB",
+    "selection":"03/20/2010",
+    "allocation":"22222",
+    "interaction":"33333",
+    "total":"444444",
+    "state":"closed",
+    "children":[{
+      "id":21,
+      "name":"Java",
+      "sec_code":"",
+      "selection":"01/13/2010",
+      "allocation":"22222",
+      "interaction":"33333",
+      "total":"444444",
+      "children":[{
+        "id":211,
+        "name":"java.exe",
+        "sec_code":"142 KB",
+        "selection":"01/13/2010",
+        "allocation":"22222",
+        "interaction":"33333",
+        "total":"444444"
+      },{
+        "id":212,
+        "name":"jawt.dll",
+        "sec_code":"5 KB",
+        "selection":"01/13/2010",
+        "allocation":"22222",
+        "interaction":"33333",
+        "total":"444444"
+      }]
+    },{
+      "id":22,
+      "name":"MySQL",
+      "sec_code":"",
+      "selection":"01/13/2010",
+      "allocation":"22222",
+      "interaction":"33333",
+      "total":"444444",
+      "children":[{
+        "id":221,
+        "name":"my.ini",
+        "sec_code":"10 KB",
+        "selection":"02/26/2009",
+        "allocation":"22222",
+        "interaction":"33333",
+        "total":"444444"
+      },{
+        "id":222,
+        "name":"my-huge.ini",
+        "sec_code":"5 KB",
+        "selection":"02/26/2009",
+        "allocation":"22222",
+        "interaction":"33333",
+        "total":"444444"
+      },{
+        "id":223,
+        "name":"my-large.ini",
+        "sec_code":"5 KB",
+        "selection":"02/26/2009",
+        "allocation":"22222",
+        "interaction":"33333",
+        "total":"444444"
+      }]
+    }]
+  },{
+    "id":3,
+    "name":"eclipse",
+    "sec_code":"",
+    "selection":"01/20/2010",
+    "allocation":"22222",
+    "interaction":"33333",
+    "total":"444444",
+    "state":"closed",
+    "children":[{
+      "id":31,
+      "name":"eclipse.exe",
+      "sec_code":"56 KB",
+      "selection":"05/19/2009",
+      "allocation":"22222",
+      "interaction":"33333",
+      "total":"444444"
+    },{
+      "id":32,
+      "name":"eclipse.ini",
+      "sec_code":"1 KB",
+      "selection":"04/20/2010",
+      "allocation":"22222",
+      "interaction":"33333",
+      "total":"444444"
+    },{
+      "id":33,
+      "name":"notice.html",
+      "sec_code":"7 KB",
+      "selection":"03/17/2005",
+      "allocation":"22222",
+      "interaction":"33333",
+      "total":"444444"
+    }]
+  }]
+}]

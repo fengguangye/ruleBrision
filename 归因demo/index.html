@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BRISON归因</title>
+    <link rel="stylesheet" type="text/css" href="public/themes/default/easyui.css" />
+    <link rel="stylesheet" type="text/css" href="public/themes/icon.css" />
+    <link rel="stylesheet" type="text/css" href="public/css/Base.css" />
+    <script type="text/javascript" src="public/jquery.min.js"></script>
+    <script type="text/javascript" src="public/jquery.easyui.min.js"></script>
+    <script type="text/javascript" src="public/locale/easyui-lang-zh_CN.js"></script>
+    <script type="text/javascript" src="public/package.js"></script>
+    <script type="text/javascript" src="public/js/Base.js"></script>    
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript" src="ruleBrison.js"></script>
+</head>
+<body class="easyui-layout">
+<div data-options="region:'west',title:'查询条件',collapsible:false" style="width:250px;">
+    <div style="width:230px;margin: 10px 0">
+        <input id="searchId" type="text" placeholder="请输入搜索条件" style="width:200px; margin-left:10px">
+    </div>
+    <div style="width:230px;margin: 10px 0">
+        <lable><input type='radio' name='asstTree' value='0'/>全部</lable>
+        <lable><input type='radio' name='asstTree' value='1'/>普通</lable>
+        <lable><input type='radio' name='asstTree' value='2'/>QD</lable>
+    </div>
+    <div>
+        <ul id="asstTree" style="width:250px;" class="easyui-tree">
+
+        </ul>
+    </div>
+
+</div>
+<div data-options="region:'center',minWidth:950">
+    <div class="ui-search-panel" title="详细信息">
+        <form id="searchForm">
+            <table class="searchTable">
+                <tr>
+                    <th><label class="ui-label">开始时间:</label></th>
+                    <td><input class="easyui-datebox" id='startDate'  name="startDate" value="true" /></td>
+                    <th><label class="ui-label">结束时间:</label></th>
+                    <td><input class="easyui-datebox" id='endDate' name="endDate" value="true"/> </td>
+                    <th><label class="ui-label">分类规则:</label></th>
+                    <td><input class="easyui-textbox ui-text"  style="width:210px" name="ruleCd" id="ruleCd"></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <div>
+        <div style="height:30px;padding:10px;background-color: #1f637b;">
+            <a id="btnexport" href="#" class="easyui-linkbutton" data-options="iconCls:'icon-export'">导出</a>
+            <a id="btnSearch" href="#" class="easyui-linkbutton" data-options="iconCls:'icon-search'">查询</a>
+        </div>
+        <div style="margin-top:10px;">
+            <div style="width:95%;border:1px solid #96b8e4;overflow: auto;margin:20px auto;overflow: auto;">
+                <table id="dataList" style="height:100%;">
+                </table>
+            </div>
+        </div>
+        <script>
+            var h_doc = $(document).height();
+            $("#dataList").parent().css('height',h_doc-160);
+        </script>
+    </div>
+</div>
+<div id='searchTable' class="easyui-dialog" data-options="closed:true">
+</div>
+</body>
+</html>

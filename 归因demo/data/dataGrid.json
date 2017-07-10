@@ -1,0 +1,217 @@
+[{
+  "assetCd":"1",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"2",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":" ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"3",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"4",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"5",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":""
+},{
+  "assetCd":"6",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"7",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"8",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"9",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"10",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"11",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"12",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"13",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"14",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"15",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"16",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"17",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"18",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"19",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"20",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"21",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"22",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"23",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"24",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"25",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"26",
+  "assetNm":"123",
+  "benmType1":"FAILED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+},{
+  "assetCd":"27",
+  "assetNm":"123",
+  "benmType1":"COMPLETED",
+  "benmType2":"222222 ",
+  "benmType3":"15:13:39.348",
+  "benmType4":"15:13:51.438",
+  "benmType5":"12090ms"
+}]
